@@ -4,7 +4,7 @@
   let paper_size = "a4"
 
   let line_skip = 0.35em
-  let font_size = 10pt
+  let font_size = 9pt
   let level1_color = "#8c195f";
   let level2_color = "#a12b66";
   let level3_color = "#b63d6d";
