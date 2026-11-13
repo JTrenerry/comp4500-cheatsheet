@@ -19,11 +19,6 @@
     paper: paper_size,
     flipped: true,
     margin: ("top": 8mm, "rest": 5mm),
-    header-ascent: 1.5mm,
-    header: align(center, text(
-      1.1em,
-      weight: "bold",
-    )),
   )
 
   set text(size: font_size, font: "Libertinus Serif")
