@@ -18,7 +18,7 @@
   set page(
     paper: paper_size,
     flipped: true,
-    margin: ("top": 8mm, "rest": 5mm),
+    margin: ("rest": 5mm),
   )
 
   set text(size: font_size, font: "Libertinus Serif")
