@@ -1,11 +1,4 @@
 = Graphs
-
-== Intro
-
-- Edge $(u,v)$ is incident from vertex $u$ and incident on $v$
-- Simple cycle: Can't repeat vertices
-- Forest: Acyclic graph, Tree: Forest that is fully connected
-
 *Adjacency List (Sparse Graphs)*:
 - Space: $Theta(V + E)$
 - Time (`isAdjacent`): $Theta(V)$
