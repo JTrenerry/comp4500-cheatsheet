@@ -5,7 +5,6 @@
 
 #head[Encodings]
 Encodes problem instance to a set of binary strings ${0, 1}^*$
-#todo([Include encoding tut problem])
 
 #head[Polynomially Related Encodings]
 Two encodings $e_1$ and $e_2$ are polynomially related if exists polynomial functions $f_12$ and $f_21$ such that:
