@@ -23,7 +23,6 @@
     header: align(center, text(
       1.1em,
       weight: "bold",
-      [#title / #author / #context counter(page).display()],
     )),
   )
 
