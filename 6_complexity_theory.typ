@@ -30,8 +30,3 @@ and non-instances are mapped to non-instances
 - *NP*: Set of concrete decision problems where solution (certificate) can be checked in polynomial time.
 - *NP-Hard*: Concrete decision problem $B$ where every other problem $A in N P$ is polynomially reducable to $A$.
 - *NP-Complete*: Concrete decision problem that is both *NP-HARD* and in *NP* (e.g., Circuit SAT).
-
-#head[NP Hard Proof]
-- Assume problem $Y$ is NP-hard
-- Show $Y$ is polynomial-time reducible to $Z$, making $Z$ NP-hard
-- If every problem $A in N P$ is poly-reducible to $Y$ (NP HARD), and we can convert $Y -> Z$, then every $A in N P$ is reducible to $Z$.
