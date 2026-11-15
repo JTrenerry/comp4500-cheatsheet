@@ -26,11 +26,6 @@ Therefore, each operation is $Theta(n) slash n = Theta(1)$
 - Amortised cost must be upper bound to actual cost
 - Must show that the total amortised cost minus actual cost is never negative
 
-Stack operations amortised cost:
-1. Push: 2 (assign extra cost for future pop)
-2. Pop: 0
-3. Multipop: 0
-
 == Potential Method
 
 1. Determine _actual cost_ of operations
